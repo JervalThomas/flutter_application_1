@@ -1,2 +1,3 @@
-# flutter_application_1
+# 🔥 Flutter application 1
 Wordle
+
